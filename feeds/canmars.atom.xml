@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Frozen dirt diaries - CanMars</title><link href="https://egodin.github.io/" rel="alternate"></link><link href="https://egodin.github.io/feeds/canmars.atom.xml" rel="self"></link><id>https://egodin.github.io/</id><updated>2016-10-29T13:00:00-04:00</updated><entry><title>CanMars 2016 — this is gonna roll Monday Morning</title><link href="https://egodin.github.io/canmars-2016-this-is-gonna-roll-monday-morning.html" rel="alternate"></link><published>2016-10-29T13:00:00-04:00</published><updated>2016-10-29T13:00:00-04:00</updated><author><name>Etienne Godin</name></author><id>tag:egodin.github.io,2016-10-29:/canmars-2016-this-is-gonna-roll-monday-morning.html</id><summary type="html">&lt;p class="first last"&gt;For #CANMARS 2016, we are a team where each member has a role. Also, things are moving very fast, and a few last-minute adjustments were required just before the start.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;This is gonna be awesome. We have been preparing for this event for the last few months. Several participants are veterans of the 2015 mission, leads were there during the first few years of the project. In addition to a handful of new participants such as myself.&lt;/p&gt;
+&lt;div class="section" id="my-role"&gt;
+&lt;h2&gt;My role.&lt;/h2&gt;
+&lt;p&gt;In fact, there were a few last-minute adjustments in the hierarchical structure of the mission staff at Mission Control. Initially, I was going to be a member of:&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;the GIS group (Geographical Information System), those responsible for organizing maps and geolocalisation features for the rest of the teams, with &lt;a class="reference external" href="https://twitter.com/Zach4TheFuture"&gt;&amp;#64;Zach4TheFuture&lt;/a&gt; (Zach Morse, Western, Ph.D. student in Earth Sciences) and &lt;a class="reference external" href="https://twitter.com/Elusieum"&gt;&amp;#64;Elusium&lt;/a&gt; (Elise Harrington, Western, M. Sc. student in Earth Sciences);&lt;/li&gt;
+&lt;li&gt;the MastCAM group (camera mounted on a mast, with a ZOOM and PANORAMA mode);&lt;/li&gt;
+&lt;li&gt;the TEMMI group (the Three-Dimensional Exploration Multispectral Microscope Imager) with a colleague.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;A big load as they say. I have been reading for the last weeks almost everything that was written on those sensors so I have a good grasp on capabilities and limitations, in addition to reports and papers that were prepared for conferences and such.&lt;/p&gt;
+&lt;p&gt;Good for me! Next thing I know, as the team was taking form and specific schedules and limitations of availability were arriving on the Science Lead desk, a few adjustments were required:&lt;/p&gt;
+&lt;ol class="arabic simple" start="4"&gt;
+&lt;li&gt;I was removed from the GIS team;&lt;/li&gt;
+&lt;li&gt;I became the lead for the MastCAM group;&lt;/li&gt;
+&lt;li&gt;the lead of TEMMI;&lt;/li&gt;
+&lt;li&gt;the lead of RMI (the Remote Micro Imager);&lt;/li&gt;
+&lt;li&gt;the lead of WATSON (a special camera acting as a microscope).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;It was not sure yet who would be composing my group but I had a few remote collaborators online who would help me run this fine suite of instruments.&lt;/p&gt;
+&lt;p&gt;I still have the weekend to somewhat catch on with my latest assignment(s).&lt;/p&gt;
+&lt;div class="figure"&gt;
+&lt;img alt="MESR, the Mars Exploration Science Rover" src="https://egodin.github.io/images/MESR.jpg" /&gt;
+&lt;p class="caption"&gt;Source: ASC_CSA. This is MESR being tested in a simulated arid environment.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content><category term="UWO CanMars"></category></entry></feed>
