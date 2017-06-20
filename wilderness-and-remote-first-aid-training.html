@@ -33,13 +33,17 @@
 <link href="https://egodin.github.io/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Frozen dirt diaries ATOM Feed"/>
 <link href='//fonts.googleapis.com/css?family=Open+Sans:800italic' rel='stylesheet' type='text/css'>
 <link href='//fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
-<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/uikit/2.23.0/css/uikit.min.css">
-<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/uikit/2.23.0/css/components/search.min.css">
-<link rel="stylesheet" href="https://egodin.github.io/theme/css/tipuesearch.css">
-<link rel="stylesheet" href="https://egodin.github.io/theme/css/solarized.css">
-<link rel="stylesheet" href="https://egodin.github.io/theme/css/main.css">
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/uikit/2.15.0/css/uikit.min.css">
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/uikit/2.15.0/css/components/search.min.css">
+<link rel="stylesheet" href="/theme/css/tipuesearch.css">
+<link rel="stylesheet" href="/theme/css/solarized.css">
+<link rel="stylesheet" href="/theme/css/main.css">
+<link rel="stylesheet" href="/theme/css/academicons.css">
+<link rel="stylesheet" href="/theme/css/academicons.min.css">
 
 <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+
+
 </head>
 <body>
 <!--[if lt IE 7]>
@@ -49,12 +53,14 @@
 <header class=" mg-header uk-navbar uk-navbar-attached">
 
     <div class="uk-container uk-container-center">
+        <div class="uk-grid" data-uk-grid-margin>
 
-        <a class="mg-brand uk-navbar-brand uk-hidden-small" href="https://egodin.github.io">Frozen dirt diaries</a>
-        <div class="mg-tagline uk-navbar-content uk-hidden-small">Permafrost, Geomorphology, Science, Planets et al.</div>
-        <a class="uk-navbar-toggle uk-visible-small" href="#mg-offcanvas" data-uk-offcanvas></a>
-        <a class="mg-brand uk-navbar-brand uk-navbar-center uk-visible-small" href="https://egodin.github.io">Frozen dirt diaries</a>
+            <a class="mg-brand uk-navbar-brand uk-hidden-small" href="https://egodin.github.io">Frozen dirt diaries</a>
+            <div class="mg-tagline uk-navbar-content uk-hidden-small">Permafrost, Geomorphology, Science, Planets et al.</div>
+            <a class="uk-navbar-toggle uk-visible-small" href="#mg-offcanvas" data-uk-offcanvas></a>
+            <a class="mg-brand uk-navbar-brand uk-navbar-center uk-visible-small" href="https://egodin.github.io">Frozen dirt diaries</a>
 
+        </div>
     </div>
 </header>
 
@@ -106,7 +112,6 @@
         <hr class="uk-article-divider">
     </article>
 
-
 </div>
 
         <div class="uk-width-medium-1-5 uk-hidden-small">
@@ -124,6 +129,13 @@
                     <li ><a href="https://egodin.github.io/category/canmars.html">CanMars</a></li>
                     <li ><a href="https://egodin.github.io/category/field.html">Field</a></li>
                     <li class="uk-nav-header">Pages</li>
+
+                    <li >
+                        <a href="https://egodin.github.io/pages/about.html">About</a>
+                    </li>
+                    <li >
+                        <a href="https://egodin.github.io/pages/contributions.html">Contributions</a>
+                    </li>
 
 
                     <li class="uk-nav-divider"></li>
@@ -150,6 +162,15 @@
                 <a class="mg-icon-link" href="https://stackexchange.com/users/3590476/fre0n">
                     <i class="uk-icon-stack-exchange uk-icon-medium"></i>
                 </a>
+					<a class="mg-icon-link" href="https://scholar.google.ca/citations?user=6aVJVy4AAAAJ&hl=en">
+						<i class="ai-google-scholar ai ai-2x"></i>
+					</a>
+					<a class="mg-icon-link" href="https://orcid.org/0000-0003-2021-1967">
+						<i class="ai-orcid ai ai-2x"></i>
+					</a>
+					<a class="mg-icon-link" href="https://www.researchgate.net/profile/Etienne_Godin">
+						<i class="ai-researchgate ai ai-2x"></i>
+					</a>
             </div>
 
         </div>
@@ -165,18 +186,29 @@
 
         <div class="mg-icons-small uk-subnav uk-visible-small">
             <li><a rel="alternate" type="application/atom+xml" href="https://egodin.github.io/feeds/all.atom.xml" class="uk-icon-button uk-icon-rss"></a></li>
-            <li>
-                <a href="https://twitter.com/etiennegodin" class="uk-icon-button uk-icon-twitter"></a>
-            </li>
-            <li>
-                <a href="https://github.com/egodin" class="uk-icon-button uk-icon-github"></a>
-            </li>
-            <li>
-                <a href="mailto:etienne.godin@gmail.com?Subject=Frozen%20Dirt%20blog%20comment" class="uk-icon-button uk-icon-envelope"></a>
-            </li>
-            <li>
-                <a href="https://stackexchange.com/users/3590476/fre0n" class="uk-icon-button uk-icon-stack-exchange"></a>
-            </li>
+				<li>
+					<a href="https://twitter.com/etiennegodin" class="uk-icon-button uk-icon-twitter"></a>
+				</li>
+				<li>
+					<a href="https://github.com/egodin" class="uk-icon-button uk-icon-github"></a>
+				</li>
+				<li>
+					<a href="mailto:etienne.godin@gmail.com?Subject=Frozen%20Dirt%20blog%20comment" class="uk-icon-button uk-icon-envelope"></a>
+				</li>
+				<li>
+					<a href="https://stackexchange.com/users/3590476/fre0n" class="uk-icon-button uk-icon-stack-exchange"></a>
+				</li>
+
+					<li>
+						<a href="https://scholar.google.ca/citations?user=6aVJVy4AAAAJ&hl=en" class="ai-google-scholar ai ai-2x"></a>
+					</li>
+					<li>
+						<a href="https://orcid.org/0000-0003-2021-1967" class="ai-orcid ai ai-2x"></a>
+					</li>
+					<li>
+						<a href="https://www.researchgate.net/profile/Etienne_Godin" class="ai-researchgate ai ai-2x"></a>
+					</li>
+
         </div>
 
         <div class="mg-author uk-panel">
@@ -199,8 +231,13 @@
             <li class="uk-active"><a href="https://egodin.github.io/category/blog.html">Blog</a></li>
             <li ><a href="https://egodin.github.io/category/canmars.html">CanMars</a></li>
             <li ><a href="https://egodin.github.io/category/field.html">Field</a></li>
-			
             <li class="uk-nav-header">Pages</li>
+            <li >
+                <a href="https://egodin.github.io/pages/about.html">About</a>
+            </li>
+            <li >
+                <a href="https://egodin.github.io/pages/contributions.html">Contributions</a>
+            </li>
 
 
             <li class="uk-nav-divider"></li>
@@ -211,15 +248,13 @@
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/uikit/2.23.0/js/uikit.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/uikit/2.23.0/js/components/search.min.js"></script>
-<script src="https://egodin.github.io/theme/js/tipuesearch_set.js"></script>
-<script src="https://egodin.github.io/theme/js/tipuesearch.js"></script>
-<script src="https://egodin.github.io/theme/js/jquery.sticky-kit.js"></script>
-<script src="https://egodin.github.io/theme/js/plugins.js"></script>
-<script src="https://egodin.github.io/theme/js/main-search.js"></script>
-
-
+<script src="//cdnjs.cloudflare.com/ajax/libs/uikit/2.15.0/js/uikit.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/uikit/2.15.0/js/components/search.min.js"></script>
+<script src="/theme/js/jquery.sticky-kit.js"></script>
+<script src="/theme/js/tipuesearch_set.js"></script>
+<script src="/theme/js/tipuesearch.js"></script>
+<script src="/theme/js/plugins.js"></script>
+<script src="/theme/js/main.js"></script>
 
 </body>
 </html>
